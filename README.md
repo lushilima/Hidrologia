@@ -9,7 +9,7 @@ Ciclo-da-aguabaixa.jpg
 Caracterização Morfométrica de Bacia Hidrográfica no Google Colab
 Authors: Luciana Shigihara Lima & Anna Nachtigall & Emanuele Koschier & Uiele San Martins
 
-Date: 11-07-2025
+Date: 05-08-2025
 
 Este script Python realiza a caracterização morfométrica e fisiográfica de uma bacia hidrográfica a partir de um shapefile de delimitação da bacia e um Modelo Digital de Terreno (MDT).
 
